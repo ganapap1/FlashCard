@@ -21,6 +21,6 @@ I have taken the flashcard R script from github.com/jienagu/flashCard_Shiny_Demo
 
 #flashCard_Shiny_Demo
 
-This is a Shiny demo app using flashCard package.
+This is a Shiny demo app using flashCard package by Jiena McLellan
 
 Live Demo on shinyapp.io: https://appforiarteam.shinyapps.io/flashCard_demo/
